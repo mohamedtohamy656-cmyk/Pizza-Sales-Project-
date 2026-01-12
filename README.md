@@ -10,7 +10,8 @@ An end-to-end data analysis project built using **Power BI** to analyze pizza sa
 ![Best-worst sellers](https://github.com/user-attachments/assets/bb1708d5-bb94-44ac-b6cb-fcae013055ea)
 
 ### Best & Worst Sellers
-![Best Worst](images/best_worst_sellers.jpeg)
+![home page](https://github.com/user-attachments/assets/6adcd8ee-0752-4f88-ac02-7b5b22176615)
+
 
 ---
 
