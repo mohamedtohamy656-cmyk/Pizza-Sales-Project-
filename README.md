@@ -8,7 +8,6 @@ An end-to-end data analysis project built using **Power BI** to analyze pizza sa
 
 ### Home Page
 ![Home](images/home_page.jpeg)
-
 ### Best & Worst Sellers
 ![Best Worst](images/best_worst_sellers.jpeg)
 
